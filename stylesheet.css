@@ -27,7 +27,7 @@ a {
   background-image: url(gambar/camera2.jpg);
   background-size: cover;
   color: white;
-  text-align: center;
+  text-align: left;
 }
 
 .top-wrapper h1 {
@@ -43,7 +43,7 @@ a {
 }
 
 .btn-wrapper {
-  text-align: center;
+  text-align: left;
   margin: 20px 0;
 }
 
